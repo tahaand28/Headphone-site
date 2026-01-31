@@ -6,8 +6,7 @@
 این نمونه‌کار توانایی من در طراحی رابط کاربری مدرن، پیاده‌سازی لندینگ‌پیج‌های محصول‌محور و تبدیل طراحی‌های الهام‌گرفته از برندهای حرفه‌ای به کد تمیز و استاندارد را نشان می‌دهد.
 
  <img src="screencapture-Headphone site.png">
-    <div style="display: flex;">
+    <div style="margin: auto;">
         <img src="iPhone-14-Pro-Headphone site.png">
-        <img src="iPhone-14-Pro-Tech-Specs.png">
     </div>
 
